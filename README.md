@@ -6,14 +6,14 @@
 <div align="center">
   <a href="https://github.com/Gibble-Nibble">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="" alt="" width="130" height="100">
+    <img src="https://i.pinimg.com/564x/20/59/85/205985bfb01cddcfc007e5664e786280.jpg" alt="" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">CCS0023L_Midterm</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description.
+  My Midterm for Object Oriented Programming (Lab)
 </div>
 
 <br />
@@ -29,9 +29,14 @@
 CCS0023L_Midterm
 └─ Zoo
 |  └─ Animal.java
+|  └─ Application.java
 |  └─ Lion.java
-|  └─ Main.java
+|  └─ Menu.java
 |  └─ Tiger.java
 |  └─ Zoo.java
+└─ GradingSystem
+|  └─ GradeDistribution.java
+|  └─ Main.java
+|  └─ StudentRecord.java
 └─ readme.md
 ```
