@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/Gibble-Nibble">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="https://i.pinimg.com/564x/20/59/85/205985bfb01cddcfc007e5664e786280.jpg" alt="" width="130" height="100">
+    <img src="205985bfb01cddcfc007e5664e786280.jpg" alt="" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">CCS0023L_Midterm</h3>
