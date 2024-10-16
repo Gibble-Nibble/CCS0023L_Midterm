@@ -28,7 +28,10 @@
 ```
 CCS0023L_Midterm
 └─ Zoo
-|
-|
+|  └─ Animal.java
+|  └─ Lion.java
+|  └─ Main.java
+|  └─ Tiger.java
+|  └─ Zoo.java
 └─ readme.md
 ```
