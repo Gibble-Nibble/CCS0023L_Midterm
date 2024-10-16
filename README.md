@@ -23,34 +23,8 @@
 ![](https://visit-counter.vercel.app/counter.png?page=Gibble-Nibble/CCS0023L_Midterm)
 
 ---
-
 <br />
 <br />
-
-<!-- TODO: If you want to add more layers for your readme -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#overview">Overview</a>
-      <ol>
-        <li>
-          <a href="#key-components">Key Components</a>
-        </li>
-        <li>
-          <a href="#technology">Technology</a>
-        </li>
-      </ol>
-    </li>
-    <li>
-      <a href="#rules-and-principles">Rules and Principles</a>
-    </li>
-    <li>
-      <a href="#resources">Resources</a>
-    </li>
-  </ol>
-</details>
-
 ---
 
 ```
