@@ -22,10 +22,8 @@
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
 ![](https://visit-counter.vercel.app/counter.png?page=Gibble-Nibble/CCS0023L_Midterm)
 
----
-<br />
-<br />
----
+<br/>
+<br/>
 
 ```
 CCS0023L_Midterm
