@@ -5,6 +5,6 @@ public class Tiger extends Animal {
 
     @Override
     public void talk() {
-        System.out.println("I am a Tiger named " + getName() + " and I am " + getAge() + " years old.");
+        System.out.println("I am a tiger, my name is " + getName() + " and I am " + getAge() + " years old.");
     }
 }
