@@ -27,8 +27,8 @@
 
 ```
 CCS0023L_Midterm
-└─ Menu.java
-└─ Application.java
-└─ GradeDistribution.java
+└─ Zoo
+|
+|
 └─ readme.md
 ```
